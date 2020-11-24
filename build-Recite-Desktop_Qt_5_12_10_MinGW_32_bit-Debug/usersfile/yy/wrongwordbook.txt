@@ -1,0 +1,7 @@
+
+英文 词性 中文
+happy adj 快乐的
+word n 单词
+to prep 去
+hello v 你好
+apple n 苹果

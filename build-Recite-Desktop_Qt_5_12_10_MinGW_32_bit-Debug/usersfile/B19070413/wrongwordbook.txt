@@ -1,0 +1,5 @@
+
+英文 词性 中文
+one n 一
+one n 一
+two n 二

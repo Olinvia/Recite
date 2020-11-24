@@ -1,0 +1,10 @@
+
+英文 词性 中文
+hello v 你好
+happy adj 快乐的
+to prep 去
+word n 单词
+test n 测试
+hello v 你好
+happy adj 快乐的
+to prep 去

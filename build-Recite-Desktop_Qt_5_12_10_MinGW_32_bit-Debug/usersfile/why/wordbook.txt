@@ -1,0 +1,8 @@
+
+英文 词性 中文
+word n 单词
+test n 测试
+hello v 你好
+apple n 苹果
+happy adj 快乐的
+to prep 去
